@@ -11,3 +11,4 @@ while True:
     nimi = input("Anna nimi: ")
     if nimi in numerot:
         print (f"Henkilön {nimi} puhelinnumero on {numerot[nimi]}.")
+
